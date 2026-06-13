@@ -2,6 +2,7 @@
 /backend/node_modules
 /backend/.env
 /backend/dist
+/backend/generated/
 
 # Frontend
 /frontend/node_modules
